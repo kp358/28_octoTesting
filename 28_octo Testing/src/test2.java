@@ -16,6 +16,7 @@ public class test2 {
 			
 			rem=num%10;
 			sum=sum+rem*rem*rem;
+			System.out.println("fjfjfjfjfjfjhj");
 			
 		}
 		if(sum==p)
